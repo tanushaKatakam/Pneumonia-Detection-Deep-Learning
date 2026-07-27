@@ -26,10 +26,10 @@ Dataset: Chest X-ray Images (Pneumonia)
 Directory Structure
 
 dataset/
-└── chest_xray/
-├── train/
-├── val/
-└── test/
+└──  chest_xray/
+├──  train/
+├──  val/
+└──  test/
 
 Classes
 
