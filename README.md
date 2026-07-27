@@ -27,8 +27,11 @@ Directory Structure
 
 dataset/
 └──  chest_xray/
+
 ├──  train/
+
 ├──  val/
+
 └──  test/
 
 Classes
